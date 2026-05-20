@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="https://github.com/osmanghani1435.png" width="180" style="border-radius: 50%;" alt="Osman Ghani" />
+  <img align="right" src="https://github.com/osmanghani1435.png" width="180" style="border-radius: 50%; border: 3px solid #00ADD8; padding: 5px;" alt="Osman Ghani" />
   
   <h1>Hi there, I'm Osman Ghani 👋</h1>
   <h3>Full-Stack Developer | Exploring AI & Scalable Systems</h3>
@@ -11,9 +11,17 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osmanghani1435&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=osmanghani1435&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanghani1435&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
 
 ### 🛠️ Tech Stack & Workflow
 
@@ -37,8 +45,3 @@
 - 💻 Full-Stack Development & Seamless Workflows
 - 🤖 AI Creative Tools (Dreamina, Suno, Runway ML)
 - 🎮 Mobile Gaming & Optimization (Free Fire MAX)
-
-### 📊 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanghani1435&layout=compact&theme=radical" alt="Top Languages" />
-</p>
