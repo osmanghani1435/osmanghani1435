@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="YOUR_IMAGE_LINK_HERE" width="200" style="border-radius: 50%;" alt="Osman Ghani" />
+  <img align="right" src="https://github.com/osmanghani1435.png" width="180" style="border-radius: 50%;" alt="Osman Ghani" />
   
   <h1>Hi there, I'm Osman Ghani 👋</h1>
   <h3>Full-Stack Developer | Exploring AI & Scalable Systems</h3>
