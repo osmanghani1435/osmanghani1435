@@ -11,17 +11,9 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=osmanghani1435&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanghani1435&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osmanghani1435&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ### 🛠️ Tech Stack & Workflow
 
@@ -45,3 +37,8 @@
 - 💻 Full-Stack Development & Seamless Workflows
 - 🤖 AI Creative Tools (Dreamina, Suno, Runway ML)
 - 🎮 Mobile Gaming & Optimization (Free Fire MAX)
+
+### 📊 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanghani1435&layout=compact&theme=radical" alt="Top Languages" />
+</p>
