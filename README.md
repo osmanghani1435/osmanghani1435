@@ -17,32 +17,30 @@
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  osman@dev ~ zsh                                             ║
-║  ❯ whoami                                                    ║
-║  Osman Ghani — AI Engineer & Full-Stack Developer            ║
-║                                                              ║
-║  ❯ cat identity.json                                         ║
-║  {                                                           ║
-║    "location"  : "Medan, North Sumatra 🇮🇩",                ║
-║    "university": "Universitas Dharmawangsa",                 ║
-║    "award"     : "🏆 Best Student 2026 — Backend Eng",       ║
-║    "focus"     : "AI Automation + Cross-Platform Dev",       ║
-║    "framework" : "Antigravity (Web → Android + PC)",         ║
-║    "security"  : "Ethical Hacking Basics",                   ║
-║    "creates"   : "YouTube @osmancreatorlab"                  ║
-║  }                                                           ║
-║                                                              ║
-║  ❯ npm run build:app                                         ║
-║  ✔ Build complete → Android & PC                             ║
-║  ❯ # ready to deploy_                                        ║
-╚══════════════════════════════════════════════════════════════╝
+```bash
+osman@dev ~ zsh
+❯ whoami
+  Osman Ghani — AI Engineer & Full-Stack Developer
 ```
 
-</div>
+```json
+❯ cat identity.json
+{
+  "location"   : "Medan, North Sumatra 🇮🇩",
+  "university" : "Universitas Dharmawangsa",
+  "award"      : "🏆 Best Student 2026 — Backend Engineering",
+  "focus"      : "AI Automation + Cross-Platform Dev",
+  "framework"  : "Antigravity  →  Web → Android + PC",
+  "security"   : "Ethical Hacking Basics",
+  "creates"    : "YouTube @osmancreatorlab"
+}
+```
+
+```bash
+❯ npm run build:app
+  ✔ Build complete → Android & PC
+❯ # ready to deploy_
+```
 
 ---
 
